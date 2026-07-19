@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -23,3 +24,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+>>>>>>> parent of 1a1a32e (引入vite和npm配置)
